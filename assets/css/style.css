@@ -6485,7 +6485,7 @@ footer.clean-footer.crev:before {
     position: relative;
     height: 100vh;
     overflow: auto;
-    background: url("/assets/imgs/works/full/real-bg.jpg") center/cover no-repeat;
+    background: url("imgs/works/full/real-bg.jpg") center/cover no-repeat;
     
 }
 
